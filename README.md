@@ -1,8 +1,6 @@
-# Playground ReactJS Input Mask
+# ReactJS Input Mask
 
 A simple ReactJS masked input
-
-[Click here to see more examples](https://github.com/cicerohen/playground)
 
 ### Development
 
